@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" />
+    <link rel="stylesheet" href="style.cssh"/>
+</head>
+<title>Lamont Walker</title>
+
+<header>
+   
+    <ul class="UL">
+        <a href="file:///Users/dollsbaby/Desktop/LW%20Work/LWRESUME.jpg" target="_blank">Resume</a>
+        <a href="https://github.com/Lwalker429/Lamont-Walker-Portfolio" target="_blank">Coding Portfolio</a>
+        <a href="indexform.html">Contact Me</a></li>
+
+    </ul>
+
+    <button>Lamont Walker</button>
+    <img class="pic" src="https://mail.google.com/mail/u/0?ui=2&ik=01c7ba8b85&attid=0.1&permmsgid=msg-a:r-7471887434121873079&th=181d7a2f1dec26f3&view=att&disp=safe&realattid=181d7a2d8e668be58e31">
+</header>
+
+<body>
+  <style>
+    body {
+        background-color:peachpuff;
+    }
+
+
+    .UL {
+        margin-top:1px;
+        padding:10px;
+        width:95%;
+        height:20px;
+        border:solid 3px darkblue;
+        background-color:rgba(221, 112, 11, 0.78) ;
+        font-size:30px;
+        list-style-type:none;
+        color:white;
+        text-align:center;
+    }
+
+.UL a {
+    text-decoration:none ;
+    float:left;
+    width:33.3%;
+}
+    .UL a:hover {
+    
+        color:rgb(201, 42, 6);
+
+    }
+
+    button {
+        border:none;
+        background-color: peachpuff;
+        width:95%;
+        text-align: center;
+        color:rgb(215, 118, 14);
+        font-size:50px;
+
+    }
+    h2 {
+        text-align:center;
+        font-size:35px;
+    }
+
+    
+
+    
+    .f {
+        margin-top:200px;
+        color:black;
+        text-align:center;
+        font-size:20px;
+    } 
+    .pic {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+         width: 80%;
+        height:600px;
+        text-align:center;
+    }
+    
+    
+        
+  </style>
+   
+</body>
+<footer class="f">
+    Copyright 2022
+</footer>
+
+
+</html>
